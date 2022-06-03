@@ -1,0 +1,14 @@
+---
+title: "Foro 1 - Adriana Fernández"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+greeting <- "Hello World!"
+print (greeting)
+```
